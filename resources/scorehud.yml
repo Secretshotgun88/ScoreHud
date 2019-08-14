@@ -5,11 +5,11 @@ scorehud-version: 1
 
 # Changing titles of the scoreboard.
 # Can be of any number.
-server-names:
-- "§l§aServer §dName"
-- "§l§bServer §cName"
-- "§l§cServer §bName"
-- "§l§dServer §aName"
+server-names:Mc faction
+- "§l§aIp:192.168.43.203
+- "§l§bOwner Secretshotgun88
+- "§l§cCreated on:14 august 2019
+- "§l§dGame type:Faction and random event
 
 # Note: You can find links to the required/supported plugins via the README.md.
 # IMPORTANT NOTE: You can only set a maximum of 15 lines and no more.
@@ -28,7 +28,7 @@ server-names:
 #
 # For a list of addons go here https://github.com/JackMD/ScoreHud/blob/master/README.md#addons.
 score-lines:
-- " §aLine #1"
+- " §aLine #1
 - " §bLine #2"
 - " §cLine #3"
 - " §dLine #4"
